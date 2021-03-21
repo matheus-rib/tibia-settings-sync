@@ -34,5 +34,12 @@
     "no-use-before-define": "off",
     "comma-dangle": "off",
     "react-hooks/exhaustive-deps": "warn"
+  },
+  "ignorePatterns": [
+    "out/",
+    ".webpack/"
+  ],
+  "settings": {
+    "react": "detect"
   }
 }
