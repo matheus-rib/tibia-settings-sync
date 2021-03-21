@@ -11,7 +11,8 @@
     "make": "electron-forge make",
     "publish": "electron-forge publish",
     "lint": "eslint --fix --ext .js,.jsx,.ts,.tsx .",
-    "semantic-release": "semantic-release"
+    "semantic-release": "semantic-release",
+    "test": "echo \"No tests, YET\""
   },
   "keywords": [],
   "author": {
